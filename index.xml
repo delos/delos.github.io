@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on M. Sten Delos</title>
+    <link>https://stendelos.com/</link>
+    <description>Recent content in Home on M. Sten Delos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="https://stendelos.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Probing the early universe using dark matter minihalos</title>
+      <link>https://stendelos.com/research/minihalos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stendelos.com/research/minihalos/</guid>
+      <description>In the very first second, the Universe is thought to have undergone a period of accelerated expansion. During this cosmic inflation, tiny quantum fluctuations expanded to much larger size, seeding initially minor variations in the density of the Universe. Subsequently, regions that were slightly overdense attracted surrounding mass, becoming still denser and eventually growing into the galaxies that we see today. Inflation solves several problems in Big Bang cosmology, such as why opposite corners of the sky have the same temperature despite never coming into causal contact.</description>
+    </item>
+    
+    <item>
+      <title>The halo-cosmology connection</title>
+      <link>https://stendelos.com/research/connection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stendelos.com/research/connection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Other</title>
+      <link>https://stendelos.com/other/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stendelos.com/other/</guid>
+      <description>Solutions to past UNC Physics qualifying exams</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://stendelos.com/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stendelos.com/publications/</guid>
+      <description>Here are lists of my publications:
+ arXiv preprints ADS list INSPIRE list (INSPIRE profile) My ORCID  </description>
+    </item>
+    
+    <item>
+      <title>UNC Past Qualifier Solutions</title>
+      <link>https://stendelos.com/quals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stendelos.com/quals/</guid>
+      <description>Below are my solutions to a range of past UNC-CH physics qualifying exam problems. This is intended as a resource for other UNC-CH physics graduate students. Be warned that not all solutions are correct! If you find something wrong, let me know and I&#39;ll make a note of it. Also, I have no solutions to the astro problems, but all other missing solutions are noted.
+2015 exam 2015 qualifying exam</description>
+    </item>
+    
+  </channel>
+</rss>
