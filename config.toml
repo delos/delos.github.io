@@ -18,7 +18,7 @@ title = "M. Sten Delos"
     author = "M. Sten Delos"
     title = "M. Sten Delos"
     description = "Theoretical Cosmologist"
-    authorimage = "sten.jpg"
+    authorimage = "img/sten.jpg"
     dateformat = "Jan 2, 2006"
 
     # sidebar, copyright & license
@@ -28,6 +28,8 @@ title = "M. Sten Delos"
     # https://highlightjs.org
     highlightjs = true
     highlightjsstyle = "github"
+
+    postNavigation = false
 
 ## Social Accounts
 [params.social]
@@ -44,7 +46,7 @@ title = "M. Sten Delos"
 [[menu.main]]
     name = "Research"
     weight = 100
-    identifier = "portfolio"
+    identifier = ""
     url = "/research/"
 [[menu.main]]
     name = "Publications"

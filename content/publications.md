@@ -8,3 +8,6 @@ Here are lists of my publications:
 * [INSPIRE list](http://inspirehep.net/search?p=exactauthor%3AM.S.Delos.1) ([INSPIRE profile](http://inspirehep.net/author/profile/M.S.Delos.1))
 * [My ORCID](https://orcid.org/0000-0003-3808-5321)
 
+---
+
+[[Research]](../research/) [[Other]](../other/)

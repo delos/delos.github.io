@@ -2,7 +2,7 @@
 title = "UNC Past Qualifier Solutions"
 +++
 
-Below are my solutions to a range of past UNC-CH physics qualifying exam problems.  This is intended as a resource for other UNC-CH physics graduate students.  Be warned that not all solutions are correct!  If you find something wrong, let me know and I'll make a note of it.  Also, I have no solutions to the astro problems, but all other missing solutions are noted.
+Below are my solutions to a range of past UNC-Chapel Hill physics qualifying exam problems.  This is intended as a resource for other UNC-Chapel Hill physics graduate students.  Be warned that not all solutions are correct!  If you find something wrong, let me know and I'll make a note of it.  Also, I have no solutions to the astro problems, but all other missing solutions are noted.
 
 ## 2015 exam  
 [2015 qualifying exam](/pdf/DWE_2015.pdf)  
@@ -20,7 +20,7 @@ Below are my solutions to a range of past UNC-CH physics qualifying exam problem
 [2013 solutions](/pdf/Sten_qual_2013_solutions.PDF)  
 * CM-4: not sure about (d)
 * EMI-4: missing
-* QMII-3: numerical error (should be ~-2.14 MeV) but otherwise correct.
+* QMII-3: numerical error (should be about -2.14 MeV) but otherwise correct.
 
 ## 2012 exam  
 [2012 qualifying exam](/pdf/DWE_2012.pdf)  
@@ -48,3 +48,7 @@ Below are my solutions to a range of past UNC-CH physics qualifying exam problem
 [Outdated department qualifier exam page](http://physics.unc.edu/graduate-program/resources/qual-exam/) (topic lists, past exams, grading rubric)
 
 [New [2017] qual proposal that was approved](/pdf/proposal_precandidacy.pdf) (main changes: 3 hours instead of 90 minutes per course, but ~70% pass mark instead of 50%)
+
+---
+
+[[Back]](../other/)
