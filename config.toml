@@ -1,0 +1,64 @@
+## Basic Configuration
+baseurl = "https://stendelos.com/"
+languageCode = "en"
+
+title = "M. Sten Delos"
+
+## Hugo Built-in Features
+# disqusShortname = "your-disqus-shortname"
+# googleAnalytics = "your-google-analytics-id"
+# enableRobotsTXT = true
+
+# summarylength = 30
+
+#paginate = 5
+
+## Site Settings
+[params]
+    author = "M. Sten Delos"
+    title = "M. Sten Delos"
+    description = "Theoretical Cosmologist"
+    authorimage = "sten.jpg"
+    dateformat = "Jan 2, 2006"
+
+    # sidebar, copyright & license
+    copyright = "M. Sten Delos"
+    showBuiltWith = false
+
+    # https://highlightjs.org
+    highlightjs = true
+    highlightjsstyle = "github"
+
+## Social Accounts
+[params.social]
+    github = "delos"
+    twitter = "stendelos"
+    email = "delos@unc.edu"
+
+## Main Menu
+[[menu.main]]
+    name = "Home"
+    weight = 1
+    identifier = ""
+    url = "/"
+[[menu.main]]
+    name = "Research"
+    weight = 100
+    identifier = "portfolio"
+    url = "/research/"
+[[menu.main]]
+    name = "Publications"
+    weight = 250
+    identifier = ""
+    url = "/publications/"
+[[menu.main]]
+    name = "Other"
+    weight = 300
+    identifier = ""
+    url = "/other/"
+[[menu.main]]
+    name = "CV [PDF]"
+    identifier = ""
+    weight = 400
+    url = "/pdf/deloscv.pdf"
+

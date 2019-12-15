@@ -1,0 +1,10 @@
++++
+title = "Publications"
++++
+
+Here are lists of my publications:
+* [arXiv preprints](https://arxiv.org/search/?searchtype=author&query=Delos%2C+M+S)
+* [ADS list](https://ui.adsabs.harvard.edu/search/q=%3Dauthor%3A%22Delos%2C%20M%20Sten%22%20or%20%3Dauthor%3A%22Delos%2C%20M%20S%22%20or%20%3Dauthor%3A%22Delos%2C%20Sten%22)
+* [INSPIRE list](http://inspirehep.net/search?p=exactauthor%3AM.S.Delos.1) ([INSPIRE profile](http://inspirehep.net/author/profile/M.S.Delos.1))
+* [My ORCID](https://orcid.org/0000-0003-3808-5321)
+
