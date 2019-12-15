@@ -23,6 +23,10 @@
   </url>
   
   <url>
+    <loc>https://stendelos.com/quals/</loc>
+  </url>
+  
+  <url>
     <loc>https://stendelos.com/publications/</loc>
   </url>
   
@@ -32,10 +36,6 @@
   
   <url>
     <loc>https://stendelos.com/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://stendelos.com/quals/</loc>
   </url>
   
 </urlset>
