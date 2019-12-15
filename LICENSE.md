@@ -1,6 +1,6 @@
 Website content is copyright (c) 2019 M. Sten Delos
 
-Website layout is based on the hyde-hyde theme, whose copyright notice follows:
+Website layout is based on the hyde-hyde theme, whose license follows:
 
 ---
 
