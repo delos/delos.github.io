@@ -19,7 +19,7 @@
   }
   .author-image {
     display: block;
-    margin-top: 4px;
+    margin-top: 16px;
   }
 }
 
@@ -47,7 +47,7 @@
 }
 
 .site__description {
-  font-size: 1.285rem;
+  font-size: 1.0rem;
   font-weight: 300;
 }
 
@@ -64,8 +64,8 @@
 }
 
 .img--headshot {
-	height: 115px;
-	width: 115px;
+	height: 150px;
+	width: 150px;
 }
 
 .img--caption {
@@ -79,7 +79,7 @@
 }
 
 .copyright {
-  padding-top: 1rem;
+  padding-top: 2rem;
 	@extend %small-center-text;
 }
 .builtwith {

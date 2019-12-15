@@ -1,5 +1,5 @@
 +++
-title = "UNC Past Qualifier Solutions"
+title = "Past UNC Physics Qualifier Solutions"
 +++
 
 Below are my solutions to a range of past UNC-Chapel Hill physics qualifying exam problems.  This is intended as a resource for other UNC-Chapel Hill physics graduate students.  Be warned that not all solutions are correct!  If you find something wrong, let me know and I'll make a note of it.  Also, I have no solutions to the astro problems, but all other missing solutions are noted.

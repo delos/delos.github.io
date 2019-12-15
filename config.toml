@@ -23,7 +23,7 @@ title = "M. Sten Delos"
 
     # sidebar, copyright & license
     copyright = "M. Sten Delos"
-    showBuiltWith = false
+    showBuiltWith = true
 
     # https://highlightjs.org
     highlightjs = true

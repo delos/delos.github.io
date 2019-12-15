@@ -1,7 +1,7 @@
 // mobile ~320..480px
 // 320px ~ 16rem/16px ~ 18.8235/17px ~ 17.7778/18px
 // 480px ~ 30rem/16px ~ 28.2353rem/17px ~ 26.6667rem/18px
-@media (min-width: 320px) and (max-width: 767px) {
+@media (max-width: 767px),(max-height: 599px) {
   html,
   body {
     font-size: $small-device-font-size;
@@ -20,6 +20,9 @@
   }
   .sidebar-about,
   .copyright {
+    display: none;
+  }
+  .builtwith {
     display: none;
   }
   .sidebar {
@@ -75,7 +78,7 @@
 
 // tablet/medium device ~768px+
 // 768px ~ 48em/16px ~ 45.1765em/17px ~ 42.6667/18px
-@media (min-width: 768px) {
+@media (min-width: 768px) and (min-height: 600px) {
   html,
   body {
     font-size: $small-device-font-size;
