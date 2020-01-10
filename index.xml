@@ -35,7 +35,7 @@
       
       <guid>https://stendelos.com/other/</guid>
       <description>Solutions to past UNC Physics qualifying exams
- [Publications]</description>
+ [Talks]</description>
     </item>
     
     <item>
@@ -55,7 +55,22 @@
       
       <guid>https://stendelos.com/publications/</guid>
       <description>Here are lists of my publications:
- arXiv preprints ADS list INSPIRE list (INSPIRE profile) My ORCID   [Research] [Other]</description>
+ arXiv preprints ADS list INSPIRE list (INSPIRE profile) My ORCID   [Research] [Talks]</description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>https://stendelos.com/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stendelos.com/talks/</guid>
+      <description>Accurately constraining the primordial power spectrum using minihalos
+(APS April Meeting 2018)
+The gamma-ray signature of an early matter-dominated era
+(APS April Meeting 2019)
+Posters The gamma-ray signature of an early matter-dominated era
+(Eighth International Fermi Symposium)
+ [Publications] [Other]</description>
     </item>
     
   </channel>
