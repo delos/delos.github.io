@@ -54,6 +54,11 @@ title = "M. Sten Delos"
     identifier = ""
     url = "/publications/"
 [[menu.main]]
+    name = "Talks"
+    weight = 270
+    identifier = ""
+    url = "/talks/"
+[[menu.main]]
     name = "Other"
     weight = 300
     identifier = ""

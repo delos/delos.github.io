@@ -10,4 +10,4 @@ Here are lists of my publications:
 
 ---
 
-[[Research]](../research/) [[Other]](../other/)
+[[Research]](../research/) [[Talks]](../talks/)

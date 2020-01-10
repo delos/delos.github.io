@@ -6,4 +6,4 @@ title = "Other"
 
 ---
 
-[[Publications]](../publications/)
+[[Talks]](../talks/)
