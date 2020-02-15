@@ -27,7 +27,7 @@ Probing cosmology using dark matter microhalos
 
 [The gamma-ray signature of an early matter-dominated era](https://fermi.gsfc.nasa.gov/science/mtgs/symposia/2018/program/166/)
 [[PDF](/files/emde-poster.pdf)]  
-(Eighth International Fermi Symposium)
+(Eighth International Fermi Symposium, October 2018)
 
 ---
 
