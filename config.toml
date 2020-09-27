@@ -23,7 +23,7 @@ title = "M. Sten Delos"
 
     # sidebar, copyright & license
     copyright = "M. Sten Delos"
-    showBuiltWith = true
+    showBuiltWith = false
 
     # https://highlightjs.org
     highlightjs = true
@@ -35,7 +35,7 @@ title = "M. Sten Delos"
 [params.social]
     github = "delos"
     twitter = "stendelos"
-    email = "delos@unc.edu"
+    email = "sten@mpa-garching.mpg.de"
 
 ## Main Menu
 [[menu.main]]
