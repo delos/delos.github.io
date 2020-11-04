@@ -42,13 +42,6 @@ Below are my solutions to a range of past UNC-Chapel Hill physics qualifying exa
 * QMII-5: missing
 * EMII missing (all)
 
-## Other resources  
-[First Year Graduate Students Self Assessment](https://graduatestudentassessment.web.unc.edu/) (topic lists, degree requirements, past exams)
-
-[Outdated department qualifier exam page](http://physics.unc.edu/graduate-program/resources/qual-exam/) (topic lists, past exams, grading rubric)
-
-[New [2017] qual proposal that was approved](/pdf/proposal_precandidacy.pdf) (main changes: 3 hours instead of 90 minutes per course, but ~70% pass mark instead of 50%)
-
 ---
 
 [[Back]](../other/)
