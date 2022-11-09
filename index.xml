@@ -11,6 +11,15 @@
     
     
     <item>
+      <title>Formation of halos prior to the matter epoch</title>
+      <link>https://stendelos.com/research/radiation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stendelos.com/research/radiation/</guid>
+      <description>Related Publications  Ultradense dark matter haloes accompany primordial black holes (2022) Annihilation signatures of hidden sector dark matter within early-forming microhalos (2019)   [Back]</description>
+    </item>
+    
+    <item>
       <title>Probing the early universe using dark matter minihalos</title>
       <link>https://stendelos.com/research/early/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -20,12 +29,30 @@
     </item>
     
     <item>
+      <title>Prompt cusps of the first halos</title>
+      <link>https://stendelos.com/research/cusps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stendelos.com/research/cusps/</guid>
+      <description>The first dark matter halos formed around redshift 30, at a time of about 100 million years. These potentially earth-mass objects are the basis for all larger structure, but their formation mechanism is special because they arise from the smooth mass distribution of the early universe. Immediately at formation, each halo develops a central structure in which the density scales with radius as ρ ~ r^-1.5. The properties of these prompt cusp features, such as their sizes and masses, can be predicted accurately and straightforwardly from the initial conditions without need for numerical simulations.</description>
+    </item>
+    
+    <item>
       <title>Predicting populations of dark matter halos</title>
       <link>https://stendelos.com/research/halos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://stendelos.com/research/halos/</guid>
       <description>Related Publications  Evolution of dark matter microhalos through stellar encounters (2019) Tidal evolution of dark matter annihilation rates in subhalos (2019) Predicting the density profiles of the first halos (2019)   [Back]</description>
+    </item>
+    
+    <item>
+      <title>Stochastic gravitational influence of dark halos</title>
+      <link>https://stendelos.com/research/perturbed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stendelos.com/research/perturbed/</guid>
+      <description>Related Publications  Stellar streams and dark substructure: the diffusion regime (2022)   [Back]</description>
     </item>
     
     <item>
@@ -66,14 +93,16 @@ My dissertation
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://stendelos.com/talks/</guid>
-      <description>Probing cosmology using dark matter microhalos [PPT] [PDF]
-(Perimeter Institute for Theoretical Physics&amp;mdash;February 6, 2020)
+      <description>This is a representative subset of my talks.
+Prompt cusps and the dark matter annihilation signal [PDF]
+(SF1258 Neutrinos and Dark Matter colloquium&amp;mdash;October 17, 2022)
+Stellar streams and dark substructure [PDF]
+(Munich Dark Matter Meeting&amp;mdash;March 8, 2022)
+Observational signatures of early matter domination [PDF]
+(Particle Seminar, Carleton University&amp;mdash;September 27, 2021)
 Probing cosmology using dark matter microhalos [PPT] [PDF]
-(Max Planck Institute for Astrophysics&amp;mdash;January 20, 2020)
-The gamma-ray signature of an early matter-dominated era [PPT] [PDF] (APS April Meeting, 2019)
-Constraining the primordial power spectrum using minihalos [PPT] [PDF] (APS April Meeting, 2018)
-Posters The gamma-ray signature of an early matter-dominated era [PDF]
-(Eighth International Fermi Symposium, October 2018)</description>
+(Perimeter Institute for Theoretical Physics&amp;mdash;February 6, 2020)
+The gamma-ray signature of an early matter-dominated era [PPT] [PDF] (APS April Meeting, 2019)</description>
     </item>
     
   </channel>

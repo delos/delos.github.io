@@ -3,11 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://stendelos.com/research/radiation/</loc>
+  </url>
+  
+  <url>
     <loc>https://stendelos.com/research/early/</loc>
   </url>
   
   <url>
+    <loc>https://stendelos.com/research/cusps/</loc>
+  </url>
+  
+  <url>
     <loc>https://stendelos.com/research/halos/</loc>
+  </url>
+  
+  <url>
+    <loc>https://stendelos.com/research/perturbed/</loc>
   </url>
   
   <url>
