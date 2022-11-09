@@ -7,6 +7,8 @@ A repository containing Python scripts to handle the creation and analysis of [G
 
 [Solutions to past UNC Physics qualifying exams](/quals/)
 
+[My dissertation](/pdf/DelosDissertation.pdf)
+
 ---
 
 [[Talks]](../talks/)

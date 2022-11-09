@@ -12,11 +12,10 @@ In order to probe the origins of matter and structure in the Universe, my resear
 
 #### Related Publications
 
+* [Ultradense dark matter haloes accompany primordial black holes](https://arxiv.org/abs/2210.04904) (2022)
+* [Dark matter microhalos in the solar neighborhood: Pulsar timing signatures of early matter domination](https://arxiv.org/abs/2109.03240) (2022)
 * [Breaking a dark degeneracy: The gamma-ray signature of early matter domination](https://arxiv.org/abs/1910.08553) (2019)
 * [Annihilation signatures of hidden sector dark matter within early-forming microhalos](https://arxiv.org/abs/1906.00010) (2019)
-* [Evolution of dark matter microhalos through stellar encounters](https://arxiv.org/abs/1907.13133) (2019)
-* [Tidal evolution of dark matter annihilation rates in subhalos](https://arxiv.org/abs/1906.10690) (2019)
-* [Predicting the density profiles of the first halos](https://arxiv.org/abs/1905.05766) (2019)
 * [Density profiles of ultracompact minihalos: Implications for constraining the primordial power spectrum](https://arxiv.org/abs/1806.07389) (2018)
 * [Are ultracompact minihalos really ultracompact?](https://arxiv.org/abs/1712.05421) (2018)
 
