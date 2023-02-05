@@ -3,8 +3,8 @@ title = "Research"
 +++
 
 **Prompt cusps of the first halos**  
-[[More detail]](cusps/)  
-When gravitational collapse breaks the smooth mass distribution of the early universe, the process immediately produces a compact structure in which density scales with radius as ρ ~ r^-1.5 ([see this video](/img/first-halo.mp4)). I find no evidence that these prompt density cusps are destroyed as the halos around them grow. Since every halo and subhalo in the universe formed from an initial gravitational collapse event, this results suggests that a prompt cusp should reside inside every one of them. This outcome has significant observational consequences for cold and warm dark matter models.
+[[More detail]](cusps/) **[[Outreach article]](https://www.mpa-garching.mpg.de/1069215/hl202302)**  
+When gravitational collapse breaks the smooth mass distribution of the early universe, the process immediately produces a compact structure in which density scales with radius as ρ ~ r^-1.5 ([see this video](/img/first-halo.mp4)). I find no evidence that these prompt density cusps are destroyed as the halos around them grow. Since every halo and subhalo in the universe formed from an initial gravitational collapse event, this result suggests that a prompt cusp should reside inside every one of them. This outcome has significant observational consequences for cold and warm dark matter models.
 
 **Stochastic gravitational influence of dark halos**  
 [[More detail]](perturbed/)  
