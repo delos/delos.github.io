@@ -4,9 +4,9 @@ title = "Talks"
 
 This is a representative subset of my talks.
 
-**Prompt cusps and the dark matter annihilation signal**
+**Prompt cusps of dark matter**
 [[PDF](../files/talk_promptcusps.pdf)]  
-(SFB1258 Neutrinos and Dark Matter colloquium---October 17, 2022)
+(Astrophysics Seminar, University of North Carolina at Chapel Hill---August 14, 2023)
 
 **Stellar streams and dark substructure**
 [[PDF](../files/talk_stellarstreams.pdf)]  
