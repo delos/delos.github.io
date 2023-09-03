@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "hyde-hyde.css",
-	"sourceRoot": "E:/OneDrive/Research-peripheral/Website",
+	"sourceRoot": "F:/OneDrive/Research-peripheral/Website",
 	"sources": [
 		"assets/scss/hyde-hyde.scss",
 		"assets/scss/hyde-hyde/_variables.scss",

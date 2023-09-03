@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "print.css",
-	"sourceRoot": "E:/OneDrive/Research-peripheral/Website",
+	"sourceRoot": "F:/OneDrive/Research-peripheral/Website",
 	"sources": [
 		"assets/scss/print.scss",
 		"assets/scss/hyde-hyde/_variables.scss",
