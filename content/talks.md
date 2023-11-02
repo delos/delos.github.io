@@ -4,9 +4,13 @@ title = "Talks"
 
 This is a representative subset of my talks.
 
-**Prompt cusps of dark matter**
+[**Prompt cusps of dark matter**](https://perimeterinstitute.ca/events/prompt-cusps-dark-matter)
 [[PDF](../files/talk_promptcusps.pdf)]  
-(Astrophysics Seminar, University of North Carolina at Chapel Hill---August 14, 2023)
+(Perimeter Institute for Theoretical Physics---October 10, 2023)
+
+**Ultradense halos and primordial black holes**
+[[PDF](../files/talk_ultradense.pdf)]  
+(Astroparticle phenomenology seminar, UCLA---May 10, 2023)
 
 **Stellar streams and dark substructure**
 [[PDF](../files/talk_stellarstreams.pdf)]  
