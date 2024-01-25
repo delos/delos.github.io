@@ -2,13 +2,13 @@
 title = "Research"
 +++
 
-**Prompt cusps of the first halos**  
+**Prompt cusps**  
 [[More detail]](cusps/) **[[Outreach article]](https://www.mpa-garching.mpg.de/1069215/hl202302)**  
 When gravitational collapse breaks the smooth mass distribution of the early universe, the process immediately produces a compact structure in which density scales with radius as ρ ~ r^-1.5 ([see this video](/img/first-halo.mp4)). I find no evidence that these prompt density cusps are destroyed as the halos around them grow. Since every halo and subhalo in the universe formed from an initial gravitational collapse event, this result suggests that a prompt cusp should reside inside every one of them. This outcome has significant observational consequences for cold and warm dark matter models.
 
-**Stochastic gravitational influence of dark halos**  
+**Gravitational detection of dark systems**  
 [[More detail]](perturbed/)  
-Dark matter halos are known to surround galaxies, but the vast majority of halos are expected to be devoid of stars and gas, so they are difficult to detect. However, they can perturb the motions of stars, dynamically heating stellar systems and producing characteristic patterns in stellar positions and motions. I derived an analytic framework that connects the statistical properties of a gravitationally perturbed stellar system to those of its dark halo perturbers.
+Dark matter halos are known to surround galaxies, but the vast majority of halos are expected to be devoid of stars and gas, so they are difficult to detect. However, they can perturb the motions of stars, dynamically heating stellar systems and producing characteristic patterns in stellar positions and motions. I am using analytic methods to connect the statistical properties of a gravitationally perturbed stellar system to those of its dark perturbers.
 
 **Formation of halos prior to the matter epoch**  
 [[More detail]](radiation/)  

@@ -1,5 +1,5 @@
 +++
-title = "Prompt cusps of the first halos"
+title = "Prompt cusps"
 weight = 10
 link = "https://github.com/delos"
 +++
