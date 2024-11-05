@@ -1,4 +1,4 @@
 [submodule "public"]
-	path = public
+	path = _site
 	url = https://github.com/delos/delos.github.io.git
 	branch = master
