@@ -12,7 +12,7 @@ title                    : "M. Sten Delos"
 title_separator          : "|"
 name                     : &name "Sten Delos"
 description              : &description "personal description"
-url                      : https://stendelos.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://www.stendelos.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "delos/delos.github.io"
 
