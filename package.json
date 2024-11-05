@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/academicpages/academicpages.github.io/issues"
   },
-  "homepage": "https://www.stendelos.com",
+  "homepage": "https://github.com/academicpages/academicpages.github.io",
   "engines": {
     "node": ">= 0.10.0"
   },
