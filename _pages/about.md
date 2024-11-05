@@ -9,7 +9,7 @@ redirect_from:
   - /home.html
 ---
 
-I am a theoretical cosmologist specializing in gravitational dynamics and growth of structure in the Universe. My research targets these questions:  
+I specialize in gravitational dynamics and the growth of structure in the Universe. My research targets these questions:  
 
 - What are the origins of the cosmic structure that manifests today in the form of galaxies?  
 - What is the *dark matter* that comprises most of this structure?
