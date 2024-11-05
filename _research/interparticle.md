@@ -17,12 +17,13 @@ N-body dynamics between the black holes dynamically heat them, making a componen
 <video width='480' height='480' controls><source src='/files/pbh_heating_crowded-full.mp4' type='video/mp4'></video>  
 <video width='480' height='480' controls><source src='/files/pbh_crowded.mp4' type='video/mp4'></video>  
 
+This can even make black hole clusters dissolve completely.
+<video width='480' height='480' controls><source src='/files/pbh_evaporation.mp4' type='video/mp4'></video>  
 
 ## Relativistic heating
 Black holes can also merge, often giving the merger remnant a gravitational-wave recoil kick.
 <video width='480' height='480' controls><source src='/files/pbh_recoil.mp4' type='video/mp4'></video>  
 <video width='480' height='480' controls><source src='/files/pbh_recoil_triple.mp4' type='video/mp4'></video>
-
 
 ## Related Publications
 
