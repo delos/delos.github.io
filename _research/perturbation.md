@@ -1,11 +1,14 @@
 ---
 title: "Gravitational detection of dark systems"
-excerpt: "Dark matter halos are known to surround galaxies, but the vast majority of halos are expected to be devoid of stars and gas, so they are difficult to detect. However, they can perturb the motions of stars, dynamically heating stellar systems and producing characteristic patterns in stellar positions and motions. I am using analytic methods to connect the statistical properties of a gravitationally perturbed stellar system to those of its dark perturbers.
+excerpt: "Dark matter systems much smaller than galaxies are devoid of stars and gas, so they are difficult to see.
+However, their gravitational influence alone can perturb visible systems, such as the motions of stars.
+This picture shows the excess density (color) and average velocity (arrows) of a system of stars due to the gravity of a passing dark matter system:
 <br/>
 <img src='/images/wake.png' width='640' height='240'>"
 collection: research
 ---
 
+I am largely using analytic methods to connect the properties of a gravitationally perturbed system to the properties of its dark perturbers.
 
 ## Related Publications
 

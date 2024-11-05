@@ -1,6 +1,8 @@
 ---
 title: "Prompt cusps: the dark first structures"
-excerpt: "The first structures of particle dark matter gravitationally condense out of the smooth mass distribution of the early universe, as shown below. This special formation mode makes the resulting *prompt cusps* uniquely compacted and links their properties tightly with the initial conditions.
+excerpt: "The first structures of particle dark matter gravitationally condense out of the smooth mass distribution of the early universe.
+This special formation mode makes the resulting *prompt cusps* uniquely compact and links their properties tightly with the initial conditions.
+A prompt cusp lies at the center of every dark matter halo, but the properties of the cusp and the properties of the halo are set very differently, as shown in this diagram:
 <br/>
 <img src='/images/cusp-diagram.png' width='360' height='360'>"
 collection: research

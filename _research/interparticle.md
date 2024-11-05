@@ -1,6 +1,6 @@
 ---
 title: "Collisional dynamics of macroscopic dark matter"
-excerpt: "The dark matter could be primordial black holes. In this case, cosmic structure formation is deeply influenced by the gravitational dynamics between individual black holes.
+excerpt: "The dark matter could be primordial black holes. In this case, cosmic structure formation is deeply influenced by the gravitational dynamics between individual black holes. This movie illustrates the complexity of these dynamics:
 <br/>
 <video width='480' height='480' controls><source src='/files/pbh_heating_crowded-full-fast.mp4' type='video/mp4'></video>"
 collection: research
