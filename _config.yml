@@ -24,7 +24,7 @@ author:
   avatar           : "sten.jpg"
   name             : "M. Sten Delos"
   pronouns         : # example: "she/her"  
-  bio              : "Theoretical cosmologist"
+  bio              : "Theoretical astrophysicist"
   location         : "Pasadena, CA, USA"
   employer         : "Carnegie Observatories"
   uri              : # URL
@@ -79,7 +79,7 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Key Papers'    
   conferences:
     title: 'Conference Papers'
 
