@@ -1,6 +1,6 @@
 ---
 title: "Probing the early universe using small-scale structure"
-excerpt: "The first gravitationally bound objects in the Universe were small, potentially Solar System--scale dark matter *minihalos*. These objects are broadly expected to survive today, and their potentially observable characteristics represent a probe of the primordial mass distribution at otherwise inaccessibly small scales. Consequently, they represent a unique probe of the late stages of inflation and the early postinflationary period. I use *N*-body simulations and mathematical modeling to decipher the connection between minihalos today and primordial cosmology."
+excerpt: "The first gravitationally bound objects in the Universe were small, potentially Solar System--scale dark matter systems. These objects are broadly expected to survive today, and their potentially observable characteristics represent a probe of the primordial mass distribution at otherwise inaccessibly small scales. Consequently, they represent a unique probe of the late stages of inflation and the early postinflationary period. I use *N*-body simulations and mathematical modeling to decipher the connection between minihalos today and primordial cosmology."
 collection: research
 ---
 
