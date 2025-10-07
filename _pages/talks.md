@@ -9,6 +9,9 @@ redirect_from:
 
 These are representative instances of my talks.
 
+### Persistent influence of the dark first structures
+- [**Video**](https://youtu.be/bQmImki4HTg?si=5h-I-KUxXpMfixM1) (IAS---March 13, 2025)
+
 ### Prompt cusps of dark matter
 - Short version: [**Video**](https://online.kitp.ucsb.edu/online/darkmatter-c24/delos/) (KITP---June 6, 2024)
 - Long version: [**Video**](https://pirsa.org/23100055) and [PDF](/files/talk_promptcusps.pdf) (Perimeter Institute for Theoretical Physics---October 10, 2023)
